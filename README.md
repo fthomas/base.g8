@@ -1,5 +1,5 @@
 # Frank's [Giter8][g8] template
-[![Build Status](https://travis-ci.com/fthomas/base.g8.svg?branch=master)](https://travis-ci.com/fthomas/base.g8)
+[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/fthomas/base.g8/Continuous%20Integration)](https://github.com/fthomas/base.g8/actions?query=workflow%3A%22Continuous+Integration%22)
 
 ## Template license
 
