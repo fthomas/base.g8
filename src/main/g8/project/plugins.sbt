@@ -8,4 +8,4 @@ addSbtPlugin("org.typelevel" % "sbt-tpolecat" % "0.5.2")
 
 addSbtPlugin("org.portable-scala" % "sbt-scalajs-crossproject" % "1.3.2")
 
-addSbtPlugin("org.scoverage" % "sbt-scoverage" % "2.4.2")
+addSbtPlugin("org.scoverage" % "sbt-scoverage" % "2.4.3")
